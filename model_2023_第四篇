@@ -1,0 +1,11 @@
+model,parameter,accuracy
+GICD, 278, 0.783
+CADC, 392.8, 0.837
+GICD+D, 285.7, 0.746
+GCoNet+D, 30.9, 0.815
+ICNet+D, 33.1, 0.767
+CADC+D, 413.3, 0.832
+GCoNet, 16.2, 0.814
+MINet-S, 39.2, 0.846
+MINet-KD, 39.2, 0.868
+MINet-T, 123.2, 0.868

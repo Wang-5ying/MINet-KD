@@ -1,0 +1,12 @@
+model,parameter,accuracy
+GICD, 533, 0.783
+GCoNet, 542, 0.814
+CADC, 1499, 0.837
+ICNet+D, 163, 0.767
+GCoNet+D, 600, 0.815
+CADC+D, 1596, 0.832
+CTNet, 570, 0.865
+LNSNet-T, 508, 0.880
+LNSNet-S*, 807, 0.882
+
+
